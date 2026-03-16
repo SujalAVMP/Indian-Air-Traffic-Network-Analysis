@@ -1,0 +1,23 @@
+# Core notebook workflow
+ipykernel
+jupyterlab
+matplotlib
+networkx
+numpy
+openpyxl
+pandas
+tqdm
+
+# Geospatial plotting
+folium
+geocoder
+geopandas
+geoplot
+geopy
+ipywidgets
+shapely
+
+# Network analysis and visualization helpers
+powerlaw
+python-louvain
+seaborn

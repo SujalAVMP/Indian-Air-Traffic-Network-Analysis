@@ -1,0 +1,29 @@
+[project]
+name = "indian-air-traffic-network-analysis"
+version = "0.1.0"
+description = "Notebook-based analysis of Indian air traffic networks."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "folium",
+    "geocoder",
+    "geopandas",
+    "geoplot",
+    "geopy",
+    "ipykernel",
+    "ipywidgets",
+    "jupyterlab",
+    "matplotlib",
+    "networkx",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "powerlaw",
+    "python-louvain",
+    "seaborn",
+    "shapely",
+    "tqdm",
+]
+
+[tool.uv]
+package = false
